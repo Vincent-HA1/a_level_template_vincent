@@ -9,4 +9,4 @@ def hello_world():
 
 # Run this script when this module is run directly
 if __name__ == "__main__":
-    print(greeting("sir"))
+    print(greeting("Vincent"))
